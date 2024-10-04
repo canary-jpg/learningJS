@@ -14,6 +14,9 @@
 // npm init (step-by-step, press enter to skip)
 // npm init -y (everything default)
 
+//npm uninstall <packageName> - to uninstall a package
+
+console.log('Hello, people!')
 const _ = require('lodash')
 const items = [1, [2, [3, [4]]]]
 
